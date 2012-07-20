@@ -1,9 +1,13 @@
 /*
+
+https://github.com/rayhunter/Mine.git
+
 given the following problem:
 write a function that takes a row and column as 
 parameters and returns the number of adjacent mines.  
 How the value of "the input location is a mine" 
 is handled is left as an exercise to the reader.
 
-a solution to visualize results
+this is one solution to visualize results
 
+*/
