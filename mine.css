@@ -1,0 +1,33 @@
+table {
+    margin: 20px auto;
+    font-size: 12px;
+}
+.true {
+    background: url(bomb-sm.jpg) 20px 5px no-repeat;
+}
+.id {
+    background-color: darkgreen;
+    color: white;
+}
+.right {
+    background-color: orange;
+}
+.left {
+    background-color: yellow;
+}
+.above {
+    background-color: lightgreen;
+}
+.below {
+    background-color: lightblue;
+}
+.none {
+    background-color: #ccc;
+}
+.count {
+    color: white;
+    background-color:#333;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px;
+}
